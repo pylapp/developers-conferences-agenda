@@ -1,3 +1,16 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+-  Add reference to CFP for Capitole du Libre ([#232](https://github.com/scraly/developers-conferences-agenda/pull/232))
+-  Add Escales du Libre and DevFest Perros-Guirec ([#208](https://github.com/scraly/developers-conferences-agenda/pull/208))
+
 # Developers Conferences Agenda/List
 
 This repository lists a maximum of conference dates to help conference organizers.
